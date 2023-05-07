@@ -1,6 +1,8 @@
 # shopify-to-printify-api
 
 This is an Express/Node.js API that allows users to create custom print-on-demand orders with printify.
+This allows extensive Printify intergeration without exposing sensitive customer information on the front-end.
+
 API options include:
 - Checking item availibity
 - Creating custom print order
