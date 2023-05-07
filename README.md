@@ -11,5 +11,5 @@ API options include:
 - Keeping track of/syncing Shopify and Printify orders
 
 TODO:
-Add Shopify side of the API upon completion of custom Shopify app.
+Build custom Shopify app to intergrate the API into (custom backend can only be hosted externally with Shopify).
 Add /help endpoint to API
